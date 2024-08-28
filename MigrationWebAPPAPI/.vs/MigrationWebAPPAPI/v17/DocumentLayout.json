@@ -1,0 +1,366 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\migrationwebappapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\migrationwebappapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\ccdataservises\\ccdatagetservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\ccdataservises\\ccdatagetservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\model\\timeinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\timeinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\controllers\\migrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\interfacese\\idataservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\interfacese\\idataservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\interfacese\\isqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\interfacese\\isqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\dbinfrastructure\\sqlconnectoroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\dbinfrastructure\\sqlconnectoroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\model\\mongodatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\mongodatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\dbinfrastructure\\mongoscoket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\dbinfrastructure\\mongoscoket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\model\\inttolongconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\inttolongconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\model\\multicyclemigrationrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\multicyclemigrationrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\model\\datetimetomillisecondconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\datetimetomillisecondconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\interfacese\\icosmosconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\interfacese\\icosmosconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|e:\\myoldwprk\\deprictaed file\\migrationfile\\migrationwebappapi\\migrationwebappapi\\migrationwebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\model\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\model\\errordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\migrationwebappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\migrationwebappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\migrationwebappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29EB9B7C-047F-478B-B0E4-0FD81594D728}|MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj|solutionrelative:migrationwebappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Program.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Program.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:24:48.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrationController.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Controllers\\MigrationController.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Controllers\\MigrationController.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Controllers\\MigrationController.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Controllers\\MigrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T13:44:18.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeInterval.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\TimeInterval.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\TimeInterval.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\TimeInterval.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\TimeInterval.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:40:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CCDataGetServises.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\CCDataServises\\CCDataGetServises.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\CCDataServises\\CCDataGetServises.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\CCDataServises\\CCDataGetServises.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\CCDataServises\\CCDataGetServises.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:59:33.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataServises.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\IDataServises.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Interfacese\\IDataServises.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\IDataServises.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Interfacese\\IDataServises.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:46:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Controllers\\DataController.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Controllers\\DataController.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:21:44.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DateTimeToMillisecondConverter.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\DateTimeToMillisecondConverter.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\DateTimeToMillisecondConverter.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\DateTimeToMillisecondConverter.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\DateTimeToMillisecondConverter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:54:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISQLConnector.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\ISQLConnector.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Interfacese\\ISQLConnector.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\ISQLConnector.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Interfacese\\ISQLConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:04:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICOSMOSConnector.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\ICOSMOSConnector.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Interfacese\\ICOSMOSConnector.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Interfacese\\ICOSMOSConnector.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Interfacese\\ICOSMOSConnector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:05:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MultiCycleMigrationRequestModel.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\MultiCycleMigrationRequestModel.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\MultiCycleMigrationRequestModel.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\MultiCycleMigrationRequestModel.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\MultiCycleMigrationRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:35:22.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDataModel.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\MongoDataModel.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\MongoDataModel.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\MongoDataModel.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\MongoDataModel.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwEoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:52:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SQLRepository.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Repositories\\SQLRepository.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Repositories\\SQLRepository.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Repositories\\SQLRepository.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Repositories\\SQLRepository.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAIwK0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:22:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Errordto.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\Errordto.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\Errordto.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\Errordto.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\Errordto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:27:05.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MigrationWebAPPAPI.csproj",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "RelativeToolTip": "MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T09:40:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IntToLongConverter.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\IntToLongConverter.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Model\\IntToLongConverter.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Model\\IntToLongConverter.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Model\\IntToLongConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:57:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\appsettings.json",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\appsettings.json",
+              "RelativeToolTip": "MigrationWebAPPAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T12:46:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLConnectorOptions.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\DbInfrastructure\\SQLConnectorOptions.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\DbInfrastructure\\SQLConnectorOptions.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\DbInfrastructure\\SQLConnectorOptions.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\DbInfrastructure\\SQLConnectorOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:00:27.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MigrationWebAPPAPI",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "RelativeToolTip": "MigrationWebAPPAPI\\MigrationWebAPPAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T11:07:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MigrationWebAPPAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T07:25:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MongoScoket.cs",
+              "DocumentMoniker": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\DbInfrastructure\\MongoScoket.cs",
+              "RelativeDocumentMoniker": "MigrationWebAPPAPI\\DbInfrastructure\\MongoScoket.cs",
+              "ToolTip": "E:\\Myoldwprk\\Deprictaed File\\MigrationFile\\MigrationWEBAPPAPI\\MigrationWebAPPAPI\\MigrationWebAPPAPI\\DbInfrastructure\\MongoScoket.cs",
+              "RelativeToolTip": "MigrationWebAPPAPI\\DbInfrastructure\\MongoScoket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:33:15.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

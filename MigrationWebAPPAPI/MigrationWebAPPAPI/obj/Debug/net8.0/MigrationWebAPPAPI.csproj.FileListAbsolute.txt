@@ -1,0 +1,216 @@
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.exe
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.deps.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.runtimeconfig.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.pdb
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.AssemblyInfo.cs
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.MigrationWebAPPAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MigrationWebAPPAPI.props
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MigrationWebAPPAPI.props
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MigrationWebAPPAPI.props
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\scopedcss\bundle\MigrationWebAPPAPI.styles.css
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\Migratio.A11A6FBF.Up2Date
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\refint\MigrationWebAPPAPI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.pdb
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.genruntimeconfig.cache
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\ref\MigrationWebAPPAPI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.Core.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\ankur\Desktop\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\appsettings.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.exe
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.deps.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.runtimeconfig.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MigrationWebAPPAPI.pdb
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\DnsClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.Core.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\SharpCompress.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Snappier.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ZstdSharp.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.csproj.AssemblyReference.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.AssemblyInfoInputs.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.AssemblyInfo.cs
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.csproj.CoreCompileInputs.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.MigrationWebAPPAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MigrationWebAPPAPI.props
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MigrationWebAPPAPI.props
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MigrationWebAPPAPI.props
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\scopedcss\bundle\MigrationWebAPPAPI.styles.css
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\Migratio.A11A6FBF.Up2Date
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\refint\MigrationWebAPPAPI.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.pdb
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\MigrationWebAPPAPI.genruntimeconfig.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\MigrationWebAPPAPI\obj\Debug\net8.0\ref\MigrationWebAPPAPI.dll
