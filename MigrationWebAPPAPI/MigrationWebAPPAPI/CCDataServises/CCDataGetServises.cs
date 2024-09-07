@@ -7,6 +7,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using OfficeOpenXml.FormulaParsing.Excel.Functions.Text;
 using System;
+using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Threading;
 
@@ -211,5 +212,53 @@ namespace MigrationWebAPPAPI.CCDataServises
              var result = await _mongoCollections.Find(filter).ToListAsync();
             return result; 
         }
+
+        public async Task<List<object>> FetchDataModelByRdiedobj(int cycleid, List<long> rdied)
+        {
+            // Get the collection name based on the cycle ID
+            var collectionList = await _database.ListCollectionNamesAsync().Result.ToListAsync();
+            var matchingCollectionName = collectionList.FirstOrDefault(x => x.Contains($"Cycle{cycleid}"));
+
+            if (matchingCollectionName == null)
+            {
+                throw new Exception($"Collection with Cycle ID {cycleid} does not exist.");
+            }
+
+            _mongoCollections = _database.GetCollection<MongoDataModel>(matchingCollectionName);
+
+            // Filter for documents with the provided ReportDataEntityId values
+            var filter = Builders<MongoDataModel>.Filter.In("ReportDataEntityId", rdied);
+            var documents = await _mongoCollections.Find(filter).ToListAsync();
+
+            // Group the documents by DOS and DOSDATE
+            var groupedResult = documents
+                .GroupBy(doc => new { doc.DOS, doc.DOSDATE })
+                .Select(g =>
+                {
+                    // Initialize a dictionary for each group with DOS and DOSDATE
+                    var result = new Dictionary<string, object>
+                    {
+                { "DOS", g.Key.DOS ?? 0 }, // Use 0 if DOS is null
+                { "DOSDATE", g.Key.DOSDATE ?? 0 } // Use 0 if DOSDATE is null
+                    };
+
+                    // Add each ReportDataEntityId and its corresponding CSISValue
+                    foreach (var doc in g)
+                    {
+                        if (doc.ReportDataEntityId.HasValue)
+                        {
+                            result[doc.ReportDataEntityId.Value.ToString()] = doc.CSISValue; // Include null values
+                        }
+                    }
+
+                    return (object)result;
+                })
+                .ToList();
+
+            return groupedResult;
+        }
+
+
+
     }
 }

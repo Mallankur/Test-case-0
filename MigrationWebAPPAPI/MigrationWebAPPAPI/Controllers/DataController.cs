@@ -94,8 +94,11 @@ namespace MigrationWebAPPAPI.Controllers
         public async Task<IActionResult>GetCSISDataByrdied(
             RequestClass request )
         {
-            var res = await _serviceLayer.FetchDataModelByRdied(request.Cycleid, request.Listofrdied);
+            var res = await _serviceLayer.FetchDataModelByRdiedobj(request.Cycleid, request.Listofrdied);
             return Ok(res); 
+        
+        
+        
         }
     }
 
