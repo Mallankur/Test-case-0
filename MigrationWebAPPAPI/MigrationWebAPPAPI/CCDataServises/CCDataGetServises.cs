@@ -8,6 +8,7 @@ using MongoDB.Driver;
 using OfficeOpenXml.FormulaParsing.Excel.Functions.Text;
 using System;
 using System.Runtime.CompilerServices;
+using System.Threading;
 
 namespace MigrationWebAPPAPI.CCDataServises
 {
@@ -190,6 +191,25 @@ namespace MigrationWebAPPAPI.CCDataServises
                
                 skip += limit;
             }
+        }
+
+        public async Task<List<MongoDataModel>> FetchDataModelByRdied(int cycleid, List<long> rdied)
+        {
+
+            var collectionList = await _database.ListCollectionNamesAsync().Result.ToListAsync();
+            var matchingCollectionName = collectionList.FirstOrDefault(x => x.Contains($"Cycle{cycleid}"));
+
+            if (matchingCollectionName == null)
+            {
+                throw new Exception($"Collection with Cycle ID {cycleid} does not exist.");
+            }
+
+
+            _mongoCollections = _database.GetCollection<MongoDataModel>(matchingCollectionName);
+
+            var filter = Builders<MongoDataModel>.Filter.In("ReportDataEntityId", rdied);
+             var result = await _mongoCollections.Find(filter).ToListAsync();
+            return result; 
         }
     }
 }

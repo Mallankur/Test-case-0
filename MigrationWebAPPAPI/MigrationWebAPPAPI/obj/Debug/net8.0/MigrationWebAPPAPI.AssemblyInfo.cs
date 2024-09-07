@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MigrationWebAPPAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64b70203211883540c19cf061dfacf9c8cff4398")]
 [assembly: System.Reflection.AssemblyProductAttribute("MigrationWebAPPAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MigrationWebAPPAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

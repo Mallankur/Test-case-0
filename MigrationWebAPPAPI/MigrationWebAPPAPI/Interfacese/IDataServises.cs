@@ -13,5 +13,7 @@ namespace MigrationWebAPPAPI.Interfacese
         Task<List<MongoDataModel>>FetchDataByCycleId(int CycleId,CancellationToken cansillationToken);
         IAsyncEnumerable<MongoDataModel> FetchDataByCycleIdAsync(int cycleId, [EnumeratorCancellation] CancellationToken cancellationToken);
 
+        Task<List<MongoDataModel>>FetchDataModelByRdied(int cycleid ,List<long> rdied);
+
     }
 }

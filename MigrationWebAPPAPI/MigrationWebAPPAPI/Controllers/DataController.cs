@@ -88,5 +88,15 @@ namespace MigrationWebAPPAPI.Controllers
 
           
         }
+
+        [HttpPost]
+
+        public async Task<IActionResult>GetCSISDataByrdied(
+            RequestClass request )
+        {
+            var res = await _serviceLayer.FetchDataModelByRdied(request.Cycleid, request.Listofrdied);
+            return Ok(res); 
+        }
     }
+
 }
