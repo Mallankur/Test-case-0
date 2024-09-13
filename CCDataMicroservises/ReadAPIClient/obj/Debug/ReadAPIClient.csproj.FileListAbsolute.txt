@@ -1,0 +1,10 @@
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\bin\Debug\ReadAPIClient.exe.config
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\bin\Debug\ReadAPIClient.exe
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\bin\Debug\ReadAPIClient.pdb
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\obj\Debug\ReadAPIClient.csproj.AssemblyReference.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\obj\Debug\ReadAPIClient.csproj.CoreCompileInputs.cache
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\obj\Debug\ReadAPIClient.exe
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\obj\Debug\ReadAPIClient.pdb
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Myoldwprk\Deprictaed File\MigrationFile\MigrationWEBAPPAPI\MigrationWebAPPAPI\ReadAPIClient\obj\Debug\ReadAPIC.689A879C.Up2Date
